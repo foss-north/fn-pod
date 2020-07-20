@@ -1,0 +1,71 @@
+- title: "What is Copyright"
+  yt: "Uijn32sS0Oo"
+  episode: "01 - What is Copyright.ogg"
+  number: 1
+  description: "We have a look at the history of copyright and what it actually is."
+  
+- title: "Copyright and Software"
+  yt: "ONMychw6Jac"
+  episode: "02 - Copyright and Software.ogg"
+  number: 2
+  description: "We look at how copyright affects software and why software licenses are necessary."
+  
+- title: "The History of Free and Open Source Software"
+  yt: "E7u1CpY4c1I"
+  episode: "03 - The History of Free and Open Source Software.ogg"
+  number: 3
+  description: "We take a look at the history of free and open source software."
+  
+- title: "What is a (FOSS) License"
+  yr: "crpwrarCxNU"
+  episode: "04 - What is a (FOSS) License.ogg"
+  number: 4
+  description: "What makes a software license a free and open source license?"
+  
+- title: "Classic Permissive Licenses"
+  yt: "NxLogZyveKQ"
+  episode: "05 - Classic Permissive Licenses.ogg"
+  number: 5
+  description: "We take a tour of the classic permissive licenses. This episode discusses: BSDs, MIT."
+
+- title: "Modern Permissive Licenses"
+  yt: "DlKD33Vics4"
+  episode: "06 - Modern Permissive Licenses.ogg"
+  number: 6
+  description: "We continue our tour of permissive licenses. This episode discusses: Apache License 2.0, MPL 2.0, various other permissive licenses such as WTFPL, Beerware, Unlicense, CC-0, zlib license."
+
+- title: "The GNU Licenses"
+  yt: "y60jkLbz3-I"
+  episode: "07 - The GNU Licenses.ogg"
+  number: 7
+  description: "We have a look at the GNU licenses. This episode discusses: GPL, LGPL, AGPL and GFDL."
+
+- title: "Tivoization"
+  yt: "8bP2glHDXtY"
+  episode: "08 - Tivoization.ogg"
+  number: 8
+  description: "We take a look at tivoization. What is it, and why is it controversial?"
+
+- title: "Patents - part 1"
+  yt: "wtowO-8wpKo"
+  episode: "09 - Patents.ogg"
+  number: 9
+  description: "Mirko Boehm visits foss-north and talks about software patents (part 1)."
+
+- title: "Patents - part 2"
+  yt: "sL4R15a7jxk"
+  episode: "10 - Patents part 2.ogg"
+  number: 10
+  description: "Mirko Boehm visits foss-north and talks about software patents (part 2)."
+
+- title: "Open Projects"
+  yt: "pf2NbCMBhf4"
+  episode: "11 - Open Projects.ogg"
+  number: 11
+  description: "What is an open project? There is more beyond open source. We also discuss why open projects sometimes are less open. For instance when it comes to responsible disclosure and trademarks."
+
+- title: "The curl license - part 1"
+  yt: "pJCqqmLuk3s"
+  episode: "12 - The curl license - part 1.ogg"
+  number: 12
+  description: "In our summer special Daniel Stenberg visits foss-north and talks about curl, the curl license, and how he picked a license for curl."
