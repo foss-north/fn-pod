@@ -5,7 +5,7 @@
   oggsize: 8345001
   mp3size: 10438125
   duration: "00:10:52"
-  pubdate: "Tue, 21 Jul 2020 22:12:10 +0200"
+  pubdate: "Fri, 1 May 2020 22:12:10 +0200"
   number: 1
   description: "We have a look at the history of copyright and what it actually is."
   
@@ -16,7 +16,7 @@
   oggsize: 8225736
   mp3size: 10342125
   duration: "00:10:46"
-  pubdate: "Tue, 21 Jul 2020 22:14:13 +0200"
+  pubdate: "Sat, 9 May 2020 22:14:13 +0200"
   number: 2
   description: "We look at how copyright affects software and why software licenses are necessary."
   
@@ -27,7 +27,7 @@
   oggsize: 11300453
   mp3size: 14097645
   duration: "00:14:41"
-  pubdate: "Tue, 21 Jul 2020 22:15:41 +0200"
+  pubdate: "Sat, 16 May 2020 22:15:41 +0200"
   number: 3
   description: "We take a look at the history of free and open source software."
   
@@ -38,7 +38,7 @@
   oggsize: 10972644
   mp3size: 13528557
   duration: "00:14:05"
-  pubdate: "Tue, 21 Jul 2020 22:18:12 +0200"
+  pubdate: "Sat, 23 May 2020 22:18:12 +0200"
   number: 4
   description: "What makes a software license a free and open source license?"
   
@@ -49,7 +49,7 @@
   oggsize: 12296045
   mp3size: 15667053
   duration: "00:16:19"
-  pubdate: "Tue, 21 Jul 2020 22:19:19 +0200"
+  pubdate: "Fri, 29 May 2020 22:19:19 +0200"
   number: 5
   description: "We take a tour of the classic permissive licenses. This episode discusses: BSDs, MIT."
 
@@ -60,7 +60,7 @@
   oggsize: 9214352
   mp3size: 11464173
   duration: "00:11:56"
-  pubdate: "Tue, 21 Jul 2020 22:20:31 +0200"
+  pubdate: "Fri, 5 Jun 2020 22:20:31 +0200"
   number: 6
   description: "We continue our tour of permissive licenses. This episode discusses: Apache License 2.0, MPL 2.0, various other permissive licenses such as WTFPL, Beerware, Unlicense, CC-0, zlib license."
 
@@ -71,7 +71,7 @@
   oggsize: 16204466
   mp3size: 19389379
   duration: "00:20:11"
-  pubdate: "Tue, 21 Jul 2020 22:21:43 +0200"
+  pubdate: "Fri, 12 Jun 2020 22:21:43 +0200"
   number: 7
   description: "We have a look at the GNU licenses. This episode discusses: GPL, LGPL, AGPL and GFDL."
 
@@ -82,7 +82,7 @@
   oggsize: 9532187
   mp3size: 9366765
   duration: "00:09:45"
-  pubdate: "Tue, 21 Jul 2020 22:25:55 +0200"
+  pubdate: "Sun, 21 Jun 2020 22:25:55 +0200"
   number: 8
   description: "We take a look at tivoization. What is it, and why is it controversial?"
 
@@ -93,7 +93,7 @@
   oggsize: 12250802
   mp3size: 14244717
   duration: "00:14:50"
-  pubdate: "Tue, 21 Jul 2020 22:26:34 +0200"
+  pubdate: "Sun, 28 Jun 2020 22:26:34 +0200"
   number: 9
   description: "Mirko Boehm visits foss-north and talks about software patents (part 1)."
 
@@ -104,7 +104,7 @@
   oggsize: 16638276
   mp3size: 19330413
   duration: "00:20:08"
-  pubdate: "Tue, 21 Jul 2020 22:27:24 +0200"
+  pubdate: "Mon, 6 Jul 2020 22:27:24 +0200"
   number: 10
   description: "Mirko Boehm visits foss-north and talks about software patents (part 2)."
 
@@ -115,7 +115,7 @@
   oggsize: 15308967
   mp3size: 18383351
   duration: "00:19:08"
-  pubdate: "Tue, 21 Jul 2020 22:28:28 +0200"
+  pubdate: "Sun, 12 Jul 2020 22:28:28 +0200"
   number: 11
   description: "What is an open project? There is more beyond open source. We also discuss why open projects sometimes are less open. For instance when it comes to responsible disclosure and trademarks."
 
@@ -126,6 +126,6 @@
   oggsize: 14881413
   mp3size: 18404973
   duration: "00:19:10"
-  pubdate: "Tue, 21 Jul 2020 22:30:18 +0200"
+  pubdate: "Sun, 19 Jul 2020 22:30:18 +0200"
   number: 12
   description: "In our summer special Daniel Stenberg visits foss-north and talks about curl, the curl license, and how he picked a license for curl."
